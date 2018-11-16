@@ -1,4 +1,4 @@
-var assert = requiere('assert');
+var assert = require('assert');
 var calculator = require('../index');
 describe('calculator',function (){
 	describe('add function',function(){
